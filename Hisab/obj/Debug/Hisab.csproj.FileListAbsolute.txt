@@ -1,0 +1,14 @@
+E:\Project\Hisab\Hisab\bin\Debug\Hisab.exe.config
+E:\Project\Hisab\Hisab\bin\Debug\Hisab.exe
+E:\Project\Hisab\Hisab\bin\Debug\Hisab.pdb
+E:\Project\Hisab\Hisab\bin\Debug\EntityFramework.dll
+E:\Project\Hisab\Hisab\bin\Debug\EntityFramework.xml
+E:\Project\Hisab\Hisab\obj\Debug\Hisab.form.frmHisab.resources
+E:\Project\Hisab\Hisab\obj\Debug\Hisab.form.frmItemEntry.resources
+E:\Project\Hisab\Hisab\obj\Debug\Hisab.Properties.Resources.resources
+E:\Project\Hisab\Hisab\obj\Debug\Hisab.csproj.GenerateResource.Cache
+E:\Project\Hisab\Hisab\obj\Debug\Hisab.exe
+E:\Project\Hisab\Hisab\obj\Debug\Hisab.pdb
+E:\Project\Hisab\Hisab\obj\Debug\Hisab.csprojResolveAssemblyReference.cache
+E:\Project\Hisab\Hisab\obj\Debug\Hisab.form.frmSalesEntry.resources
+E:\Project\Hisab\Hisab\obj\Debug\Hisab.form.frmSalesInvoice.resources
