@@ -1,0 +1,14 @@
+E:\Project\Hisab\Hisab\bin\Release\Hisab.exe.config
+E:\Project\Hisab\Hisab\obj\Release\Hisab.form.frmHisab.resources
+E:\Project\Hisab\Hisab\obj\Release\Hisab.form.frmItemEntry.resources
+E:\Project\Hisab\Hisab\obj\Release\Hisab.form.frmSalesEntry.resources
+E:\Project\Hisab\Hisab\obj\Release\Hisab.form.frmSalesInvoice.resources
+E:\Project\Hisab\Hisab\obj\Release\Hisab.Properties.Resources.resources
+E:\Project\Hisab\Hisab\obj\Release\Hisab.csproj.GenerateResource.Cache
+E:\Project\Hisab\Hisab\bin\Release\Hisab.exe
+E:\Project\Hisab\Hisab\bin\Release\Hisab.pdb
+E:\Project\Hisab\Hisab\bin\Release\EntityFramework.dll
+E:\Project\Hisab\Hisab\bin\Release\EntityFramework.xml
+E:\Project\Hisab\Hisab\obj\Release\Hisab.exe
+E:\Project\Hisab\Hisab\obj\Release\Hisab.pdb
+E:\Project\Hisab\Hisab\obj\Release\Hisab.csprojResolveAssemblyReference.cache

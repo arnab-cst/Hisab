@@ -7,6 +7,6 @@ namespace Hisab.Class
 {
    public class DbConnect
     {
-       
+       //Hisab.Properties.Settings.HisabConnectionString
     }
 }

@@ -38,5 +38,10 @@ namespace Hisab.form
 
             }
         }
+
+        private void frmItemEntry_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

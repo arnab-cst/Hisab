@@ -26,10 +26,19 @@ namespace Hisab.Properties {
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
-        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=|DataDirectory|\\Hisab.sdf")]
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=|DataDirectory|\\Hisab.sdf;Password=admin;Persist Security Info=True")]
         public string HisabConnectionString {
             get {
                 return ((string)(this["HisabConnectionString"]));
+            }
+        }
+        
+        [global::System.Configuration.ApplicationScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("ActiveCaption")]
+        public global::System.Drawing.Color DefaultBGColor {
+            get {
+                return ((global::System.Drawing.Color)(this["DefaultBGColor"]));
             }
         }
     }

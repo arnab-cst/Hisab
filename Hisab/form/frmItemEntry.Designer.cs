@@ -80,6 +80,7 @@
             this.Controls.Add(this.label1);
             this.Name = "frmItemEntry";
             this.Text = "frmItemEntry";
+            this.Load += new System.EventHandler(this.frmItemEntry_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

@@ -14,6 +14,7 @@ namespace Hisab.form
         public frmSalesEntry()
         {
             InitializeComponent();
+           // this.BackColor = Properties.Settings.Default.DefaultBGColor;
         }
 
         private void frmSalesEntry_Load(object sender, EventArgs e)
@@ -34,7 +35,6 @@ namespace Hisab.form
 
             tabControlSales.TabPages.Add(ChildTab);
             splitContainerSales.Panel2.Controls.Add(tabControlSales);
-
             sf.Show();
         }
     }

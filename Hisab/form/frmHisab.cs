@@ -22,23 +22,18 @@ namespace Hisab.form
             frmItemEntry objFrmItemEntry = new frmItemEntry();
             FromConfigration parent = new FromConfigration();
             parent.LoadMDIChild(objFrmItemEntry, this);
-            //objFrmItemEntry.MdiParent = this;
-            //objFrmItemEntry.Dock = DockStyle.Fill;
-            //objFrmItemEntry.AutoScroll = true;
-            //objFrmItemEntry.TopLevel = false;
-            //objFrmItemEntry.ControlBox = false;
-            //objFrmItemEntry.Text = String.Empty;
-            //objFrmItemEntry.Show();
+           
         }
 
         private void frmHisab_Load(object sender, EventArgs e)
         {
             foreach (Form frm in this.MdiChildren)
             {
-                //this.ControlBox = false;
-                //this.Text = String.Empty;
+               
                 frm.ControlBox = false;
                 frm.Text = String.Empty;
+                //frm.BackColor = Properties.Settings.Default.DefaultBGColor;
+                   
             }
         }
 
